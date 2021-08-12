@@ -32,9 +32,9 @@ enum XruEye : int {
 
 // Useful maths typedefs
 // NOTE: THESE ARE DEPRECATED, REMOVE, AND USE THE GLM NAMES
-#include <glm/gtc/type_ptr.hpp>
-#include <glm/mat4x4.hpp>
-#include <glm/vec3.hpp>
+#include <gtc/type_ptr.hpp>
+#include <mat4x4.hpp>
+#include <vec3.hpp>
 typedef glm::mat4 MfMatrix4f;
 typedef glm::vec3 MfVector3f;
 

@@ -12,7 +12,7 @@
 #include <sstream>
 #include <vector>
 
-#include <glm/gtx/transform.hpp>
+#include <gtx/transform.hpp>
 
 using namespace std;
 using glm::vec3;

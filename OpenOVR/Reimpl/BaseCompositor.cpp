@@ -5,7 +5,7 @@
 
 #include "convert.h"
 
-#include <glm/gtx/transform.hpp>
+#include <gtx/transform.hpp>
 
 using glm::mat4;
 using glm::quat;

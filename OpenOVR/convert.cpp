@@ -2,8 +2,8 @@
 
 #include "convert.h"
 
-#include <glm/gtx/matrix_decompose.hpp>
-#include <glm/gtx/quaternion.hpp>
+#include <gtx/matrix_decompose.hpp>
+#include <gtx/quaternion.hpp>
 
 using namespace vr;
 
